@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "apex"
+    }
+  },
+  "defaultProject": "apex",
+  "cli": {
+    "analytics": false
+  }
 }
